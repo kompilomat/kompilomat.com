@@ -53,14 +53,14 @@ body {
   line-height: 1.5;
   color: #6d6d6d;
   text-shadow: 0 1px 0 rgba(255, 255, 255, 0.8);
-  background: #f0f1f1 url(../images/body-bg.png) 0 0 repeat;
+  background: #f0f1f1;
 }
 
 a {
-  color: #d5000d;
+  color: #4F410C;
 }
 a:hover {
-  color: #c5000c;
+  color: #9C8636;
 }
 
 header {
